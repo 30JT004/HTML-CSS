@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 1px;
+}
+
+div {
+  margin: 0 70px;
+}
+
+head {
+  border-style: none;
+  border-color: #06877f;
+  border-width: 5px;
+}
+
+article {
+  margin-top: 20px;
+}
+
+.posted {
+  font-size: 12px;
+}
+
+.init-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.starting {
+  background-color: #e2e5e5;
+  border-top: #06877f 5px;
+  border-bottom: #06877f 5px;
+}
+
+ol,
+ul {
+  margin-left: 30px;
+}
+
+.why:last-child {
+  margin-bottom: 0;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+li,
+p {
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #06877f;
+}
+
+h1 {
+  font-size: 35px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 40xp;
+}
+
+h3 {
+  font-size: 26xp;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+
+h4 {
+  font-size: 28xp;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+  margin-top: 20px;
+}
+
+li {
+  font-size: 20xp;
+}
+
+p {
+  font-size: 18xp;
+  line-height: 1.25;
+}
+
+#footer {
+  font-size: 16px;
+  font-family: serif;
+}
+
+.related-author {
+  font-size: 16px;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+.remove-dot {
+  list-style: none;
+}
+
+aside {
+  border-top: 2px solid #06877f;
+  border-bottom: 2px solid #06877f;
+  background-color: #e2e5e5;
+  margin-top: 65px;
+}
+
+a:link {
+  color: #06877f;
+}
+
+a:visited {
+  color: rgb(229, 195, 85);
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline orange;
+}
+
+a:active {
+  color: antiquewhite;
+  background-color: rgb(124, 159, 225);
+  text-decoration: none;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
